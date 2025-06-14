@@ -51,9 +51,4 @@ Correlation heatmaps and bar plots were used to visualize these patterns.
 
 ---
 
-## ▶️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/titanic-eda.git
-   cd titanic-eda
